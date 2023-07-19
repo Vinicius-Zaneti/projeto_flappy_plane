@@ -7,3 +7,5 @@ vspeed = -4;
 
 //Criando a fumaça
 instance_create_layer(x,y,"Instances",obj_fumaca);
+
+
